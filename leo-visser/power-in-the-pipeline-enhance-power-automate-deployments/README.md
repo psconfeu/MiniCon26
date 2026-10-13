@@ -10,3 +10,9 @@ A pull request after a change triggers an Azure DevOps pipeline that validates t
 
 If you want Power Automate flows that stay maintainable, secure, and predictable at scale, join this session and leave with a practical pattern you can apply to your own deployments. Basic familiarity with Power Automate solutions and pipelines helps.
 
+## Resources
+
+Check out these resources for more infomation
+
+- [Repository showing the CI/CD](https://github.com/autosysops/PowerPlatformCICD)
+- [Respository showing the module](https://github.com/autosysops/PowerShell_PowerPlatformChecker)
